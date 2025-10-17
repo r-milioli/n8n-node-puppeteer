@@ -1,16 +1,16 @@
 {
-  "name": "@seu-usuario/n8n-nodes-puppeteer",
+  "name": "n8n-nodes-puppeteer-integration",
   "version": "1.4.2",
-  "description": "n8n node for browser automation using Puppeteer (Custom version with user-preferences plugin)",
+  "description": "n8n node for browser automation using Puppeteer with user-preferences plugin support",
   "license": "MIT",
-  "homepage": "https://github.com/seu-usuario/n8n-nodes-puppeteer",
+  "homepage": "https://github.com/r-milioli/n8n-node-puppeteer",
   "author": {
-    "name": "Seu Nome",
-    "email": "seu-email@exemplo.com"
+    "name": "Robson Milioli",
+    "email": "robson.milioli@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/seu-usuario/n8n-nodes-puppeteer.git"
+    "url": "git+https://github.com/r-milioli/n8n-node-puppeteer.git"
   },
   "main": "index.js",
   "scripts": {
